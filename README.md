@@ -1,12 +1,12 @@
 # Library Management System
 
-**Developed by: Deepika**
+**Developed by: Nageswari**
 
 ## Project Description
 A Library Management System for managing books, members, book issuing, and returns.
 
 ## Author
-Deepika
+Nageswari
 
 ## GitHub Profile
-https://github.com/deepika-1501
+https://github.com/nageswari-07
